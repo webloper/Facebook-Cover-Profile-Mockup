@@ -1,2 +1,1 @@
-Facebook-Cover---Profile-Mockup
-===============================
+Copyright and license
