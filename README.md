@@ -1,4 +1,6 @@
+# Facebook Cover & Profile Mockup
+
 ## Copyright and license
 
-Copyright 2013 Twitter, Inc under [the Apache 2.0 license](LICENSE).
+Copyright 2014 Ravi Kumar, Inc under [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
 
